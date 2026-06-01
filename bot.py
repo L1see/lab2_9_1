@@ -5,7 +5,7 @@ import json
 
 #Выполнил: студент ОмГТУ группы ИВТ-254 Конарев И.
 
-VK_TOKEN = 'vk1.a.Iwc5Js6Peewe0MHvc6IWLwMqrMbOAKya_H4efoei_C_PXnIsj5zWhqBz9CjVOqqIprd5w_GC7JoV50_Lm_YkWcPNZQV_FGDTxvEd4ht_0ZeHCgjuA1V83vHvdrOksWL-IEJELDLBwJeXHq1ISQfP4QHa-6Qf5XYFOS9ZQbHTQhtNvlWNzwL2sbVWA4H9IvkJ8oHyoykJeg8EEnxR_c3hnQ'
+VK_TOKEN = 'Стреляй_не_отдам'
 GROUP_ID = 239219036
 DATA_FILE = 'farmakopeika_products.json'
 
